@@ -1,0 +1,7 @@
+Assignment Type,Assignment score,Assignment Percentage
+Homework,50,67.57
+Quiz@1,-10,-13.51
+Test#1,74,100
+Project$Review,62.5,84.46
+Midterm,37,50
+Special!Assignment,58,78.38
